@@ -1,0 +1,4 @@
+google-generativeai==0.7.0
+sendgrid==6.11.0
+streamlit==1.35.0
+youtube-search-python==1.6.6
